@@ -85,7 +85,7 @@ function App() {
       <section id="contact" className="section contact">
         <h2>Contact</h2>
         <p>Email: info@bouwbedrijftuna.nl</p>
-        <p>Telefoon: +31 6 25135960</p>
+        <p>Telefoon: +31 6 625135960</p>
         <a href="mailto:info@bouwbedrijftuna.nl" className="btn-secondary">
           Direct Contact
         </a>
